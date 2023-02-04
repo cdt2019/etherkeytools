@@ -8,6 +8,7 @@ git clone https://github.com/cdt2019/etherkeytools.git
 
 # install dependencies
 ```
+cd etherkeytools
 npm install
 ```
 
