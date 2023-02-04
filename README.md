@@ -32,7 +32,7 @@ node .\src\index.js
 * --num=20
 
 ```
-node .\src\index.js --filepath=C:\Users\cxw\Desktop\ --filename=ethereum-key1111.xlsx --num=20
+node .\src\index.js --filepath=C:\Users\cxw\Desktop\ --filename=ethereum_key.xlsx --num=20
 ```
 
 
